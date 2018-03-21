@@ -1,6 +1,12 @@
 VIM as IDE by Damian Ziobro
 =======
 
+Note: The project is for debian based systems. When using another distro you need to make sure the following packages are installed.
+ * pip
+ * ctags
+ * cscope
+ * pip
+
 Configuration of VIM + plugins - it works as fully functional Integrated
 Development Environment (IDE)
 
